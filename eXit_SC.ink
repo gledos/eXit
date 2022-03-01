@@ -12,6 +12,19 @@ eXit
 
 + [任意键] -> trapped
 
++ [关于游戏] -> about
+
+=== about ===
+
+eXit 属于电视剧《黑客军团》(Mr. Robot) S4E11 出现的游戏，由 Whiterose 设计。
+
+此 Inky 移植版开源在 GitHub 仓库： https:\/\/github.com/gledos/eXit
+  
++ [回到标题页面]
+    # CLEAR
+    # RESTART
+    -> start 
+
 === trapped ===
 
 你跟你的朋友困在了个地牢里  。
@@ -42,7 +55,7 @@ eXit
 
 + [读字条] -> in_dark_read_note
 
-+ [在朋友身边坐下] -> found_match
++ [寻找火把] -> found_match
 
 === found_match ===
 
@@ -96,7 +109,7 @@ eXit
 
 你怎么做？
 
-+ [在朋友身边坐下] -> found_match
++ [寻找火把] -> found_match
 
 + [离开] -> BE
 
